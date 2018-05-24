@@ -1,14 +1,16 @@
-# TextAPIary
+# SMS Diary
 
-*Daily Direct-to-Database Diary!*
+*Daily Direct-to-Database Diary!* 
+
+Diary database with SMS and browser interface allowing user to log/edit entries.
+
+
+## View of the App
+App can be used [here](https://textapiary.herokuapp.com/).
+
+<img src="SMS-diary.gif" height="400px" width="600">
 
 ## Getting Started
-
-### Prerequisites
-
-### Installing
-
-#### Node Modules
 
 *Run `npm install` in the console from the root folder to automatically install the following packages.*
 
@@ -59,16 +61,8 @@ DELETE, IDNUM
 HELP
   displays commands*
 
-## Built With
 
-
-## Contributing
-
-
-## Versioning
-
-
-## Authors
+## Contributors
 
 * **Tobia Giachetti** - [tgiachett](https://github.com/tgiachett)
 * **Bettina Junghahn** - [bettijung](https://github.com/bettijung)
@@ -78,7 +72,3 @@ HELP
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-Made possible with Zang, an Avaya company.
