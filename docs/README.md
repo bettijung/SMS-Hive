@@ -8,7 +8,7 @@ Diary database with SMS and browser interface allowing user to log/edit entries.
 ## View of the App
 App can be used [here](https://textapiary.herokuapp.com/).
 
-<img src="SMS-diary.gif" height="400px" width="600">
+<img src="SMS-diary.gif" height="600px" width="900">
 
 ## Getting Started
 
